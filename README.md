@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey there!
+
+Welcome to my GitHub profile. My username here is kyleguarco, but
+I'm known in most places as **FlashDagger**.
+
+I'm a student at Central Connecticut State University in New Britain, CT.
+
+I love Rust! All hail the mighty Ferris!
 
 <!--
 **kyleguarco/kyleguarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
