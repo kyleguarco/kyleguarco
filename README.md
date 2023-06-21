@@ -3,7 +3,7 @@
 Welcome to my GitHub profile. My username here is kyleguarco, but
 I'm known in most places as **FlashDagger**.
 
-I'm a student at Central Connecticut State University in New Britain, CT.
+I'm a graduate from Central Connecticut State University in New Britain, CT. Looking for work.
 
 I love Rust! All hail the mighty Ferris!
 
