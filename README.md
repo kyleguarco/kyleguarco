@@ -3,9 +3,10 @@
 Welcome to my GitHub profile. My username here is kyleguarco, but
 I'm known in most places as **FlashDagger**.
 
-I'm a graduate from Central Connecticut State University in New Britain, CT. Looking for work.
-
 I love Rust! All hail the mighty Ferris!
+
+**GPG key `4D14 28BB 5365 BFED 1B66  CB16 2934 5DFD 7283 2B42` was compromised.**
+New GPG key as of 02/23/2025 is `A174 84B9 DB74 3DAC 740D  AE48 3313 8E8C D4BD 6B02`.
 
 <!--
 **kyleguarco/kyleguarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
